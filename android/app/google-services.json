@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097120326703",
+    "project_id": "flutteruygulamalar",
+    "storage_bucket": "flutteruygulamalar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097120326703:android:4691b711fa126fb84052da",
+        "android_client_info": {
+          "package_name": "com.example.firebasedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097120326703-it80oj17uvrnm1feunhd28eh7af8005j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Gvihnyo3nDoPgDSO5vrD4uG92w0MjcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097120326703-it80oj17uvrnm1feunhd28eh7af8005j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
